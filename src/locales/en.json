@@ -43,288 +43,382 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop, movement, and early upgrade priorities before your first run spirals out of control."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Upgrade Guide",
+          "description": "Read the level-up screen in seconds and learn which stat, weapon, and passive picks carry a run."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "How to Evolve",
+          "description": "Max your weapon, hold its linked passive, and claim the evolved form from elite and boss reward drops."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Warhammer Survivors."
+          "title": "Best Characters",
+          "description": "Compare the hero archetypes, from ranged bruisers to melee vanguards, and pick the fighter that fits your style."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Warhammer Survivors Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Best Build",
+        "Weapon Evolutions",
+        "All Characters"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Survive your first runs with movement, experience, and build fundamentals.",
+          "href": "/guide/warhammer-survivors-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Build Guide",
+          "description": "Upgrade priorities, stat picks, and the loadout that clears the final boss.",
+          "href": "/guide/warhammer-survivors-best-build"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "How to Evolve Weapons",
+          "description": "The three-part evolution recipe and how to plan it from the first minute.",
+          "href": "/guide/warhammer-survivors-how-to-evolve"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Characters",
+          "description": "Hero archetypes, roles, unlock routes, and build priorities for every run.",
+          "href": "/characters/warhammer-survivors-characters"
+        },
+        {
+          "badge": "New",
+          "title": "Weapons Guide",
+          "description": "Weapon archetypes, upgrade paths, and synergies that keep the screen clear.",
+          "href": "/items/warhammer-survivors-weapons"
+        },
+        {
+          "badge": "New",
+          "title": "Enemies Guide",
+          "description": "Enemy archetypes, tells, and the counterplay that keeps runs alive.",
+          "href": "/mechanics/warhammer-survivors-enemies"
+        },
+        {
+          "badge": "Popular",
+          "title": "Weapon Evolutions",
+          "description": "How evolved weapons trigger and which combos are worth chasing.",
+          "href": "/evolutions/warhammer-survivors-evolutions"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Release Date",
+          "description": "What is known about the launch, the platforms, and the demo.",
+          "href": "/release/warhammer-survivors-release-date"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Controls & Input",
+          "description": "Keyboard, mouse, and gamepad layouts plus kiting control tips.",
+          "href": "/mechanics/warhammer-survivors-controls"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Warhammer Survivors?",
       "paragraphs": [
-        "Warhammer Survivors is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Warhammer Survivors is a grimdark bullet-heaven action roguelite set in the Warhammer universes. You pick a hero, drop into a hostile map, and fight off escalating waves of enemies while your weapons fire automatically, so staying alive comes down to movement, positioning, and the build you assemble.",
+        "Every run is a race between your damage and the horde. Collect experience, choose upgrades at each level, and evolve maxed weapons by pairing them with the right passive before claiming the evolved form from an elite or boss reward. Runs are short and repeatable, and meta progression carries permanent power into every new attempt."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
-        },
-        {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Bullet Heaven Roguelite"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Warhammer 40,000"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Platforms",
+          "value": "PC, Console & Mobile"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Players",
+          "value": "Solo & 4-Player Co-op"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Run Length",
+          "value": "15-30 Minute Runs"
+        },
+        {
+          "label": "Core System",
+          "value": "Weapon Evolutions"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Warhammer Survivors Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Warhammer Survivors",
+      "description": "Dive into every system behind Warhammer Survivors, from characters and weapons to enemies, builds, evolutions, and release news.",
       "modules": [
         {
           "order": 1,
-          "name": "Warhammer Survivors Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/warhammer-survivors-codes",
-          "displayType": "code-box",
+          "name": "Warhammer Survivors Characters",
+          "description": "Meet the playable Warhammer Survivors characters, from ranged bruisers to melee vanguards, and learn which archetype suits your run.",
+          "href": "/characters/warhammer-survivors-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Bruiser",
+              "detail": "Vanguard tanks that push into packs and trade hits to clear early waves"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Gunner",
+              "detail": "Ranged archetypes that kite in wide circles and keep lanes clear from a distance"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Skirmisher",
+              "detail": "Assassin-style heroes built to burst down elites before they reach the swarm"
+            },
+            {
+              "label": "Caster",
+              "detail": "Area controllers who zone the arena with huge, cooldown-gated wave clear"
+            },
+            {
+              "label": "Summoner",
+              "detail": "Support archetypes that let companions and auras absorb pressure"
+            },
+            {
+              "label": "Hybrid",
+              "detail": "Flexible tank hybrids that survive bad upgrade luck and forgive mistakes"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/warhammer-survivors-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Warhammer Survivors Weapons Guide",
+          "description": "Browse Warhammer Survivors weapons by archetype, upgrade path, and synergy so your loadout can keep the screen clear.",
+          "href": "/items/warhammer-survivors-weapons",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Bolter",
+              "detail": "Rapid-fire primary with steady single-target chip that keeps lanes clear"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Lasgun",
+              "detail": "Energy beam that pierces elite and armored targets at long range"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Flamer",
+              "detail": "Scatter spray for close-range crowd clearing against packed groups"
+            },
+            {
+              "label": "Chainsword",
+              "detail": "Melee cleave with constant uptime and no ammo requirement"
+            },
+            {
+              "label": "Plasma",
+              "detail": "Explosive area denial that bursts dense formations on a slow cadence"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/warhammer-survivors-tier-list",
-          "displayType": "tier-grid",
+          "name": "Warhammer Survivors Beginner Guide",
+          "description": "A step-by-step Warhammer Survivors beginner guide covering movement, experience flow, build choices, and the mistakes that end runs early.",
+          "href": "/guide/warhammer-survivors-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Keep moving and circle the horde instead of standing still to fight"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Sweep back through your kill zone so you never leave experience on the ground"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Treat every level-up as a build decision and commit to two or three damage sources"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Take at least one mobility or pickup-range upgrade to keep leveling"
+            },
+            {
+              "label": "5",
+              "detail": "Max a carry weapon early and hold its linked passive for an evolution"
+            },
+            {
+              "label": "6",
+              "detail": "Spend meta rewards between runs to raise your permanent baseline"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/warhammer-survivors-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Warhammer Survivors Builds",
+          "description": "Learn how Warhammer Survivors builds come together, from upgrade priorities to the loadout that carries you to the final boss.",
+          "href": "/guide/warhammer-survivors-best-build",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Damage, attack speed, cooldown, area, and extra projectiles — multipliers that compound"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Move speed, max health, experience gain, and rerolls — extend survival and snowballing"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Crit chance, effect duration, projectile speed, pickup radius, and armor — strong when they fit"
+            },
+            {
+              "label": "C",
+              "detail": "Health regen, luck, and narrow utility — take only when a synergy demands it"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/warhammer-survivors-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Warhammer Survivors Enemies Guide",
+          "description": "Identify every Warhammer Survivors enemy archetype, from aura buffers to heavy chargers, and learn the counter for each threat.",
+          "href": "/mechanics/warhammer-survivors-enemies",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Aura",
+              "detail": "Pulsing buffers that strengthen the surrounding crowd, so kill them first"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Reflect",
+              "detail": "Shimmering guards that punish fire, so stop shooting and reposition"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Splitter",
+              "detail": "Units that swell before dividing, so kill them early and at range"
+            },
+            {
+              "label": "Charger",
+              "detail": "Heavy chargers with a clear wind-up, so dodge sideways and never backward"
+            },
+            {
+              "label": "Shield",
+              "detail": "Front-guarded carriers that must be attacked from the flank"
+            },
+            {
+              "label": "Boss",
+              "detail": "Telegraphed phases and timed adds, so orbit at mid-range and punish recovery"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/warhammer-survivors-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Warhammer Survivors Stages",
+          "description": "Understand how Warhammer Survivors stages shape a run, from open arenas that favor ranged spread to tight corridors built for area damage.",
+          "href": "/guide/warhammer-survivors-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Open Maps",
+              "detail": "Wide arenas reward ranged spread builds that keep lanes clear while you kite"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Corridors",
+              "detail": "Narrow sections favor melee and area damage but leave no escape route"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Map Edges",
+              "detail": "Avoid dead ends and edges during heavy waves so you always have an exit"
+            },
+            {
+              "label": "Boss Arena",
+              "detail": "Orbit at mid-range during boss fights and respect every telegraphed attack"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Warhammer Survivors Release Date",
+          "description": "Track the Warhammer Survivors release date, the platforms to watch, and how to catch the launch announcement.",
+          "href": "/release/warhammer-survivors-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wishlist",
+              "detail": "A live store page is the earliest hard signal that a launch is close"
+            },
+            {
+              "label": "Demo",
+              "detail": "Demos often arrive before release and let you learn the core loop early"
+            },
+            {
+              "label": "Console",
+              "detail": "Current-gen console ports are likely, sometimes on the same day as PC"
+            },
+            {
+              "label": "Launch",
+              "detail": "A firm release day only arrives with an official trailer or store announcement"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Warhammer Survivors News Updates",
+          "description": "Follow Warhammer Survivors news updates, including official announcements, trailers, and development updates from trusted channels.",
+          "href": "/release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailers",
+              "detail": "Gameplay reveals and cinematic teasers land on official Warhammer channels"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Early access plans and feature reveals set expectations for what comes next"
+            },
+            {
+              "label": "Patches",
+              "detail": "Balance passes shift weapon and archetype priorities between updates"
+            },
+            {
+              "label": "Platforms",
+              "detail": "New storefront and console listings signal where the game is heading"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Warhammer Survivors FAQ",
       "description": "Quick answers to the most common questions about Warhammer Survivors.",
       "items": [
         {
           "question": "What is Warhammer Survivors?",
-          "answer": "Warhammer Survivors is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Warhammer Survivors is a grimdark bullet-heaven action roguelite set in the Warhammer universes. You pick a hero, fight off escalating enemy waves with auto-firing weapons, and build up upgrades until your loadout can clear the screen."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you survive longer in Warhammer Survivors?",
+          "answer": "Movement comes first. Warhammer Survivors rewards circling the horde and keeping a clear escape lane far more than standing still to fight, and your damage comes from the build you assemble between level-ups."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do weapon evolutions work in Warhammer Survivors?",
+          "answer": "Most Warhammer Survivors evolutions need a base weapon at maximum level plus its linked passive, then a reward drop from a boss or elite to trigger the evolved form."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best build for beginners in Warhammer Survivors?",
+          "answer": "Start with a rapid-fire primary weapon, add one area-clearing secondary, and take move speed plus pickup range early. A forgiving Warhammer Survivors build like this teaches positioning without punishing small mistakes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Warhammer Survivors have co-op?",
+          "answer": "Yes. Warhammer Survivors supports squad play with shared or split experience and revives that keep the run going, so role balance matters as much as raw damage."
         }
       ]
     },
