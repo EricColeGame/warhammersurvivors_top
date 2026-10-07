@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.com/invite/aurochdigital",
     youtube: "https://www.youtube.com/@AurochDigital",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

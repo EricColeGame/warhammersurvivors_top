@@ -1,1 +1,502 @@
-{}
+{
+  "site": {
+    "name": "Warhammer Survivors Wiki",
+    "shortName": "Warhammer Survivors",
+    "tagline": "Guías de supervivencia, builds y evoluciones de armas para un bullet heaven grimdark",
+    "description": "Una wiki completa de Warhammer Survivors que cubre guías de juego, personajes, armas, mejoras, builds, enemigos y estrategias de supervivencia para los jugadores.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "evolutions": "Evoluciones",
+    "items": "Objetos",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas",
+    "release": "Lanzamiento"
+  },
+  "home": {
+    "meta": {
+      "title": "Warhammer Survivors Wiki - Builds, armas y guías",
+      "description": "Explora la wiki de Warhammer Survivors con builds detallados, armas, personajes, mejoras, guías de enemigos y consejos de supervivencia para dominar cada batalla."
+    },
+    "hero": {
+      "eyebrow": "Juego de supervivencia bullet heaven grimdark",
+      "title": "Warhammer Survivors Wiki",
+      "description": "Una wiki completa de Warhammer Survivors que cubre guías de juego, personajes, armas, mejoras, builds, enemigos y estrategias de supervivencia para los jugadores.",
+      "stats": [
+        "Todas las guías",
+        "Armas y builds",
+        "Guías de enemigos",
+        "Consejos de supervivencia"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Armas y builds",
+      "tertiaryCta": "Guías de enemigos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Warhammer Survivors",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle principal, el movimiento y las prioridades de mejora antes de que tu primera partida se descontrole."
+        },
+        {
+          "number": "2",
+          "title": "Guía de mejoras",
+          "description": "Lee la pantalla de subida de nivel en segundos y descubre qué elecciones de estadísticas, armas y pasivas sostienen una partida."
+        },
+        {
+          "number": "3",
+          "title": "Cómo evolucionar",
+          "description": "Maximiza tu arma, conserva su pasiva vinculada y consigue la forma evolucionada en las recompensas de élites y jefes."
+        },
+        {
+          "number": "4",
+          "title": "Mejores personajes",
+          "description": "Compara los arquetipos de héroe, desde brutos a distancia hasta vanguardias cuerpo a cuerpo, y elige el luchador que encaje con tu estilo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Warhammer Survivors en tendencia",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Mejor build",
+        "Evoluciones de armas",
+        "Todos los personajes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Sobrevive a tus primeras partidas con los fundamentos de movimiento, experiencia y builds.",
+          "href": "/guide/warhammer-survivors-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía del mejor build",
+          "description": "Prioridades de mejora, elecciones de estadísticas y el equipamiento que derrota al jefe final.",
+          "href": "/guide/warhammer-survivors-best-build"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Cómo evolucionar armas",
+          "description": "La receta de evolución en tres pasos y cómo planificarla desde el primer minuto.",
+          "href": "/guide/warhammer-survivors-how-to-evolve"
+        },
+        {
+          "badge": "Popular",
+          "title": "Todos los personajes",
+          "description": "Arquetipos de héroe, roles, rutas de desbloqueo y prioridades de build para cada partida.",
+          "href": "/characters/warhammer-survivors-characters"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de armas",
+          "description": "Arquetipos de armas, rutas de mejora y sinergias que mantienen la pantalla despejada.",
+          "href": "/items/warhammer-survivors-weapons"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de enemigos",
+          "description": "Arquetipos de enemigos, señales y la contra que mantiene vivas las partidas.",
+          "href": "/mechanics/warhammer-survivors-enemies"
+        },
+        {
+          "badge": "Popular",
+          "title": "Evoluciones de armas",
+          "description": "Cómo se activan las armas evolucionadas y qué combos merece la pena buscar.",
+          "href": "/evolutions/warhammer-survivors-evolutions"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Fecha de lanzamiento",
+          "description": "Lo que se sabe del estreno, las plataformas y la demo.",
+          "href": "/release/warhammer-survivors-release-date"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Controles y entrada",
+          "description": "Disposiciones de teclado, ratón y mando, además de consejos de kiting.",
+          "href": "/mechanics/warhammer-survivors-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Warhammer Survivors?",
+      "paragraphs": [
+        "Warhammer Survivors es un roguelite de acción bullet heaven grimdark ambientado en los universos Warhammer. Eliges un héroe, aterrizas en un mapa hostil y rechazas oleadas de enemigos cada vez más intensas mientras tus armas disparan automáticamente, así que mantenerte con vida depende del movimiento, el posicionamiento y el build que armes.",
+        "Cada partida es una carrera entre tu daño y la horda. Recoge experiencia, elige mejoras en cada nivel y evoluciona armas maximizadas combinándolas con la pasiva correcta antes de conseguir la forma evolucionada en una recompensa de élite o jefe. Las partidas son cortas y repetibles, y la progresión meta lleva poder permanente a cada nuevo intento."
+      ],
+      "stats": [
+        {
+          "label": "Género",
+          "value": "Roguelite bullet heaven"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Warhammer 40.000"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC, consola y móvil"
+        },
+        {
+          "label": "Jugadores",
+          "value": "Solo y cooperativo a 4 jugadores"
+        },
+        {
+          "label": "Duración de partida",
+          "value": "Partidas de 15 a 30 minutos"
+        },
+        {
+          "label": "Sistema clave",
+          "value": "Evoluciones de armas"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Warhammer Survivors",
+      "description": "Sumérgete en cada sistema de Warhammer Survivors, desde personajes y armas hasta enemigos, builds, evoluciones y noticias de lanzamiento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Personajes de Warhammer Survivors",
+          "description": "Conoce a los personajes jugables de Warhammer Survivors, desde brutos a distancia hasta vanguardias cuerpo a cuerpo, y descubre qué arquetipo encaja con tu partida.",
+          "href": "/characters/warhammer-survivors-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bruto",
+              "detail": "Tanques de vanguardia que se meten en los grupos e intercambian golpes para limpiar las primeras oleadas"
+            },
+            {
+              "label": "Tirador",
+              "detail": "Arquetipos a distancia que kitean en círculos amplios y mantienen los carriles despejados desde lejos"
+            },
+            {
+              "label": "Escaramuzador",
+              "detail": "Héroes estilo asesino creados para reventar élites antes de que alcancen el enjambre"
+            },
+            {
+              "label": "Lanzador",
+              "detail": "Controladores de zona que dominan la arena con una limpieza de oleada enorme sujeta a enfriamiento"
+            },
+            {
+              "label": "Invocador",
+              "detail": "Arquetipos de apoyo que dejan que los compañeros y las auras absorban la presión"
+            },
+            {
+              "label": "Híbrido",
+              "detail": "Tanques híbridos flexibles que sobreviven a la mala suerte de mejoras y perdonan errores"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de armas de Warhammer Survivors",
+          "description": "Explora las armas de Warhammer Survivors por arquetipo, ruta de mejora y sinergia para que tu equipamiento mantenga la pantalla despejada.",
+          "href": "/items/warhammer-survivors-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Bolter",
+              "detail": "Arma principal de disparo rápido con daño constante a un solo objetivo que mantiene los carriles despejados"
+            },
+            {
+              "label": "Lasgun",
+              "detail": "Rayo de energía que perfora objetivos de élite y blindados a larga distancia"
+            },
+            {
+              "label": "Flamer",
+              "detail": "Rocío de dispersión para limpiar grupos apretados a corta distancia"
+            },
+            {
+              "label": "Espada sierra",
+              "detail": "Corte cuerpo a cuerpo con disponibilidad constante y sin necesidad de munición"
+            },
+            {
+              "label": "Plasma",
+              "detail": "Negación de zona explosiva que revienta formaciones densas a un ritmo lento"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía para principiantes de Warhammer Survivors",
+          "description": "Una guía paso a paso para principiantes de Warhammer Survivors que cubre movimiento, flujo de experiencia, decisiones de build y los errores que terminan las partidas antes de tiempo.",
+          "href": "/guide/warhammer-survivors-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantente en movimiento y rodea la horda en lugar de quedarte quieto a luchar"
+            },
+            {
+              "label": "2",
+              "detail": "Vuelve a recorrer tu zona de matanza para no dejar nunca experiencia en el suelo"
+            },
+            {
+              "label": "3",
+              "detail": "Trata cada subida de nivel como una decisión de build y comprométete con dos o tres fuentes de daño"
+            },
+            {
+              "label": "4",
+              "detail": "Elige al menos una mejora de movilidad o radio de recogida para seguir subiendo de nivel"
+            },
+            {
+              "label": "5",
+              "detail": "Maximiza pronto un arma portadora y conserva su pasiva vinculada para una evolución"
+            },
+            {
+              "label": "6",
+              "detail": "Gasta las recompensas meta entre partidas para elevar tu base permanente"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Builds de Warhammer Survivors",
+          "description": "Aprende cómo se arman los builds de Warhammer Survivors, desde las prioridades de mejora hasta el equipamiento que te lleva al jefe final.",
+          "href": "/guide/warhammer-survivors-best-build",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Daño, velocidad de ataque, enfriamiento, área y proyectiles extra: multiplicadores que se acumulan"
+            },
+            {
+              "label": "A",
+              "detail": "Velocidad de movimiento, salud máxima, ganancia de experiencia y rerolls: prolongan la supervivencia y el efecto bola de nieve"
+            },
+            {
+              "label": "B",
+              "detail": "Probabilidad de crítico, duración de efectos, velocidad de proyectil, radio de recogida y armadura: fuertes cuando encajan"
+            },
+            {
+              "label": "C",
+              "detail": "Regeneración de salud, suerte y utilidad limitada: solo cuando una sinergia lo exige"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de enemigos de Warhammer Survivors",
+          "description": "Identifica cada arquetipo de enemigo de Warhammer Survivors, desde amplificadores de aura hasta cargadores pesados, y aprende la contra de cada amenaza.",
+          "href": "/mechanics/warhammer-survivors-enemies",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Aura",
+              "detail": "Amplificadores pulsantes que refuerzan a la multitud cercana: mátalos primero"
+            },
+            {
+              "label": "Reflejo",
+              "detail": "Guardias brillantes que castigan el fuego: deja de disparar y reposiciónate"
+            },
+            {
+              "label": "Divisor",
+              "detail": "Unidades que se hinchan antes de dividirse: mátalas pronto y a distancia"
+            },
+            {
+              "label": "Cargador",
+              "detail": "Cargadores pesados con una preparación clara: esquiva hacia los lados y nunca hacia atrás"
+            },
+            {
+              "label": "Escudo",
+              "detail": "Portadores protegidos por delante a los que hay que atacar por el flanco"
+            },
+            {
+              "label": "Jefe",
+              "detail": "Fases telegrafiadas y añadidos cronometrados: orbita a media distancia y castiga la recuperación"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Escenarios de Warhammer Survivors",
+          "description": "Entiende cómo los escenarios de Warhammer Survivors moldean una partida, desde arenas abiertas que favorecen la dispersión a distancia hasta pasillos estrechos pensados para el daño en área.",
+          "href": "/guide/warhammer-survivors-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mapas abiertos",
+              "detail": "Las arenas amplias premian los builds de dispersión a distancia que mantienen los carriles despejados mientras kiteas"
+            },
+            {
+              "label": "Pasillos",
+              "detail": "Los tramos estrechos favorecen el cuerpo a cuerpo y el daño en área, pero no dejan ruta de escape"
+            },
+            {
+              "label": "Bordes del mapa",
+              "detail": "Evita callejones sin salida y bordes durante las oleadas fuertes para tener siempre una salida"
+            },
+            {
+              "label": "Arena del jefe",
+              "detail": "Orbita a media distancia durante los combates de jefe y respeta cada ataque telegrafiado"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento de Warhammer Survivors",
+          "description": "Sigue la fecha de lanzamiento de Warhammer Survivors, las plataformas a vigilar y cómo enterarte del anuncio de estreno.",
+          "href": "/release/warhammer-survivors-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lista de deseos",
+              "detail": "Una página de tienda activa es la primera señal firme de que el estreno está cerca"
+            },
+            {
+              "label": "Demo",
+              "detail": "Las demos suelen llegar antes del lanzamiento y te dejan aprender el bucle principal pronto"
+            },
+            {
+              "label": "Consola",
+              "detail": "Es probable que haya ports para consolas de generación actual, a veces el mismo día que en PC"
+            },
+            {
+              "label": "Estreno",
+              "detail": "Una fecha de lanzamiento firme solo llega con un tráiler oficial o un anuncio en la tienda"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y actualizaciones de Warhammer Survivors",
+          "description": "Sigue las noticias y actualizaciones de Warhammer Survivors, incluidos anuncios oficiales, tráilers y novedades de desarrollo de canales fiables.",
+          "href": "/release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráilers",
+              "detail": "Las revelaciones de gameplay y los avances cinemáticos llegan a los canales oficiales de Warhammer"
+            },
+            {
+              "label": "Hoja de ruta",
+              "detail": "Los planes de acceso anticipado y las revelaciones de funciones marcan las expectativas de lo que viene"
+            },
+            {
+              "label": "Parches",
+              "detail": "Los ajustes de equilibrio desplazan las prioridades de armas y arquetipos entre actualizaciones"
+            },
+            {
+              "label": "Plataformas",
+              "detail": "Las nuevas tiendas y listados de consola indican hacia dónde se dirige el juego"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Warhammer Survivors",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Warhammer Survivors.",
+      "items": [
+        {
+          "question": "¿Qué es Warhammer Survivors?",
+          "answer": "Warhammer Survivors es un roguelite de acción bullet heaven grimdark ambientado en los universos Warhammer. Eliges un héroe, rechazas oleadas de enemigos crecientes con armas de disparo automático y acumulas mejoras hasta que tu equipamiento puede limpiar la pantalla."
+        },
+        {
+          "question": "¿Cómo se sobrevive más tiempo en Warhammer Survivors?",
+          "answer": "El movimiento es lo primero. Warhammer Survivors premia mucho más rodear la horda y mantener una ruta de escape despejada que quedarse quieto a luchar, y tu daño viene del build que armas entre subidas de nivel."
+        },
+        {
+          "question": "¿Cómo funcionan las evoluciones de armas en Warhammer Survivors?",
+          "answer": "La mayoría de las evoluciones de Warhammer Survivors necesitan un arma base al nivel máximo más su pasiva vinculada, y luego una recompensa soltada por un jefe o una élite para activar la forma evolucionada."
+        },
+        {
+          "question": "¿Cuál es el mejor build para principiantes en Warhammer Survivors?",
+          "answer": "Empieza con un arma principal de disparo rápido, añade una secundaria de limpieza de área y toma pronto velocidad de movimiento y radio de recogida. Un build de Warhammer Survivors indulgente como este enseña posicionamiento sin castigar los pequeños errores."
+        },
+        {
+          "question": "¿Warhammer Survivors tiene cooperativo?",
+          "answer": "Sí. Warhammer Survivors admite juego en escuadrón con experiencia compartida o dividida y reanimaciones que mantienen la partida en marcha, así que el equilibrio de roles importa tanto como el daño bruto."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Warhammer Survivors?",
+      "description": "Desde tu primera batalla contra hordas interminables hasta los combates contra el jefe final, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Warhammer Survivors",
+    "overviewDescription": "Empieza aquí para ver las guías de Warhammer Survivors sobre el recorrido del principiante, los mejores builds, las rutas de mejora y consejos para sobrevivir más tiempo."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Warhammer Survivors",
+    "overviewDescription": "Explora cada personaje de Warhammer Survivors, desde Malum Caedo hasta Gotrek, con análisis de estilo de juego, fortalezas y builds recomendados para cada partida."
+  },
+  "evolutions": {
+    "overviewTitle": "Evoluciones de Warhammer Survivors",
+    "overviewDescription": "Aprende cómo funcionan las evoluciones de armas de Warhammer Survivors, incluidas las evoluciones de Lasgun, Boltgun y Whirlwind, además de las mejoras necesarias para desbloquear cada una."
+  },
+  "items": {
+    "overviewTitle": "Objetos y armas de Warhammer Survivors",
+    "overviewDescription": "Explora las armas, combos de armas, objetos, mejoras y mejoras de armería de Warhammer Survivors para armar un equipamiento más fuerte en cada partida."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Warhammer Survivors",
+    "overviewDescription": "Entiende los sistemas clave de Warhammer Survivors como el multijugador, los logros, los enemigos, los controles y los rasgos de facción antes de tu próximo despliegue."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Warhammer Survivors",
+    "overviewDescription": "Comprueba dónde jugar a Warhammer Survivors en Steam, PS5, Xbox, Switch y móvil, con detalles específicos de cada plataforma y su disponibilidad."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento de Warhammer Survivors",
+    "overviewDescription": "Sigue en un solo lugar las noticias sobre la fecha de lanzamiento de Warhammer Survivors, la demo, los planes de acceso anticipado, el soporte de consolas y los detalles de precio."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Warhammer Survivors Wiki",
+    "about": "Warhammer Survivors Wiki es un centro de guías independiente creado por fans que cubre rutas de progresión, personajes, armas, builds, enemigos y conocimientos esenciales de supervivencia tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Warhammer Survivors Wiki. Sin afiliación con Games Workshop ni Auroch Digital.",
+    "description": "Roguelite de supervivencia bullet heaven grimdark. Lucha contra hordas interminables, evoluciona armas y sobrevive.",
+    "playGame": "Jugar a Warhammer Survivors",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de builds",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Guías de personajes",
+    "evolutionGuides": "Guías de evoluciones",
+    "buildGuide": "Guía de builds",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
