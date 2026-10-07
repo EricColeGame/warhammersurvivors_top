@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "evolutions": "Evolutions",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -429,7 +436,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Warhammer Survivors Guide",
+    "overviewDescription": "Start here for Warhammer Survivors guides covering the beginner walkthrough, best builds, upgrade paths, and tips for surviving longer runs."
+  },
+  "characters": {
+    "overviewTitle": "Warhammer Survivors Characters",
+    "overviewDescription": "Browse every Warhammer Survivors character, from Malum Caedo to Gotrek, with playstyle breakdowns, strengths, and recommended builds for each run."
+  },
+  "evolutions": {
+    "overviewTitle": "Warhammer Survivors Evolutions",
+    "overviewDescription": "Learn how Warhammer Survivors weapon evolutions work, including Lasgun, Boltgun, and Whirlwind evolutions, plus the upgrades needed to unlock each one."
+  },
+  "items": {
+    "overviewTitle": "Warhammer Survivors Items & Weapons",
+    "overviewDescription": "Explore Warhammer Survivors weapons, weapon combos, items, enhancements, and armory upgrades to build a stronger loadout every run."
+  },
+  "mechanics": {
+    "overviewTitle": "Warhammer Survivors Mechanics",
+    "overviewDescription": "Understand core Warhammer Survivors systems such as multiplayer, achievements, enemies, controls, and faction traits before your next deployment."
+  },
+  "platforms": {
+    "overviewTitle": "Warhammer Survivors Platforms",
+    "overviewDescription": "Check where to play Warhammer Survivors on Steam, PS5, Xbox, Switch, and mobile, with platform-specific details and availability."
+  },
+  "release": {
+    "overviewTitle": "Warhammer Survivors Release",
+    "overviewDescription": "Track Warhammer Survivors release date news, the demo, early access plans, console support, and pricing details in one place."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -460,8 +494,8 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Character Guides",
-    "bossGuides": "Boss Guides",
+    "characterGuides": "Character Guides",
+    "evolutionGuides": "Evolution Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
