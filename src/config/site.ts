@@ -25,9 +25,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Grimdark Bullet Heaven Survival Guides, Builds & Weapon Evolutions",
   description: "A complete Warhammer Survivors wiki covering gameplay guides, characters, weapons, upgrades, builds, enemies, and survival strategies for players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://warhammersurvivors.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://warhammersurvivors.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@warhammersurvivors.top",
   gameUrl: "https://store.steampowered.com/app/3669620/Warhammer_Survivors/",
-  heroVideoId: "WODiRnsHQYk", // Warhammer Survivors - Official Reveal Trailer
+  heroVideoId: "XvvWBS2uMw8", // Warhammer Survivors: Official Trailer (Warhammer channel)
+  social: {
+    discord: "https://discord.com/invite/aurochdigital",
+    youtube: "https://www.youtube.com/@AurochDigital",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
